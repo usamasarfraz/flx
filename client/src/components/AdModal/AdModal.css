@@ -1,0 +1,11 @@
+.paperForModalSections{
+    height: 100%;
+    overflow: auto;
+}
+.gridHeightSetClass{
+    height: 103%;
+    overflow: auto;
+}
+.tableCellToPoint:hover{
+    cursor: pointer;
+}

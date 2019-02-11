@@ -1,0 +1,24 @@
+.loginFormMainDiv{
+    width: 35%;
+    margin: auto;
+    margin-top: 40px;
+}
+.login_paper{
+    margin-top: 15px;
+    padding: 30px 0px;
+}
+.loginInputsText{
+    padding-top: 15px;
+}
+.logininputs{
+    width: 75%;
+    height: 35px;
+}
+.login_inner_paper{
+    width: 40%;
+    margin:10px auto;
+    padding: 17px;
+}
+.linkText{
+    text-decoration: none;
+}

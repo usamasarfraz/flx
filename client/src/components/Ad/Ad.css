@@ -1,0 +1,59 @@
+.main_form_div{
+    text-align: center;
+    min-width: 503px;
+    margin-bottom: 20px;
+}
+.paper{
+    width: 65%;
+    margin: auto;
+    padding: 5px;
+    min-width: 503px;
+}
+.titlesForInput{
+    padding-top: 15px;
+}
+.inputs{
+    text-align: left;
+}
+.textField{
+    width: 75%;
+    height: 35px;
+}
+.textArea{
+    width: 75%;
+}
+.upload_button{
+    height: 100px;
+    width: 100px;
+    padding-top: 22px;
+    padding-left: 18px;
+    box-sizing: border-box;
+}
+.Photo_main_grid{
+    padding-bottom: 10px;
+}
+#selectType{
+    margin-top: 17px;
+}
+.conditions{
+    width: 75%;
+    padding-top: 25px;
+    text-align: justify;
+    padding-left: 25%;
+}
+.submitGrid{
+    padding: 30px;
+    text-align: right;
+}
+#submitButton{
+    background: #ff7700;
+    color: #fff;
+}
+#submitButton:hover{
+    opacity: 0.7;
+}
+#category-input-txt{
+    color: black;
+    font-weight: bold;
+    font-family: cursive;
+}

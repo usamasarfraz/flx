@@ -1,0 +1,54 @@
+.item_main_div{
+    width: 93%;
+    margin: auto;
+}
+.carouel-paper{
+    padding: 20px;
+    min-width: 445px;
+}
+.adInfoPaper{
+    height: 162px;
+    padding: 2px 25px;
+    margin-bottom: 15px;
+    min-width: 255px;
+}
+.sellerContactPaper{
+    min-width: 306px;
+}
+.adInfoDiv{
+    margin-top: 16px;
+}
+.adInfoDateDiv{
+    margin-top: 15px;
+}
+.userInfoPaper{
+    height: 35%;
+    padding: 15px 25px;
+    min-width: 255px;
+}
+.userImgDiv{
+    text-align: left;
+    padding: 10px 20px;
+}
+.chatButtonDiv{
+    padding-bottom: 25px;
+}
+.chatButton{
+    height: 50px;
+}
+.itemDescriptionPaper{
+    padding:20px;
+    min-width: 445px;
+}
+.descriptionContent{
+    width: 70%;
+    min-width: 324px;
+}
+.personImg{
+    vertical-align: middle;
+}
+.personNameSpan{
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 4%;
+}

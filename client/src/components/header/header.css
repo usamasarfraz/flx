@@ -1,0 +1,51 @@
+.header{
+    height: 123px;
+    width: 65%;
+    margin: auto;
+    display: flex;
+    flex-wrap: nowrap;
+    min-width: 503px;
+}
+.header img{
+    height: 85px;
+    width: 85px;
+    float: left;
+    margin-right: 20px;
+
+}
+.header .imgDiv{
+    float: left;
+}
+.header .img_text{
+    font-size: 18px;
+    font-weight: bold;
+}
+.header .qrCode{
+    border: 1px solid blue;
+}
+.qrAndButtonsDiv{
+    margin-left: auto;
+}
+.inner_qrAndButtonsDiv{
+    display: flex;
+    flex-wrap: nowrap;
+}
+.qrCodeDiv{
+    padding-top: 10px;
+}
+#submitAdButton{
+    background: #ff7700;
+    color: #fff;
+}
+#submitAdButton:hover{
+    opacity: 0.7;
+}
+.qrCode:hover{
+    border: 1px solid #ff7700;
+    background: #ff7700;
+    opacity: 0.6;
+    cursor: pointer;
+}
+.imgDiv img:hover{
+    cursor: pointer;
+}

@@ -1,0 +1,90 @@
+.chatBoxMainDiv{
+    width: 90%;
+    margin: auto;
+    height: 510px;
+    min-width: 600px;
+}
+.chatSideBar{
+    border: 1px solid silver;
+    height: 500px;
+    overflow: auto;
+    min-width: 245px;
+}
+.chatMessageBox{
+    border-top: 1px solid silver;
+    border-right: 1px solid silver;
+    border-bottom: 1px solid silver;
+    height: 500px;
+    position: relative;
+    min-width: 448px;
+    box-sizing: border-box;
+    overflow: hidden;
+    padding-bottom: 60px;
+}
+.chatImgDiv{
+    width: 35%;
+    margin: 90px auto;
+}
+.chat_inputField_div{
+    position: absolute;
+    bottom: -9px;
+    width: 100%;
+}
+.chat_inputField{
+    width: 100%;
+}
+.chat_inputField input{
+    padding-right: 45px;
+}
+.sendIconDiv{
+    position: absolute;
+    right: 1%;
+    bottom: 2%;
+    cursor: pointer;
+}
+.sendIconDiv:active{
+    opacity: 0.6;
+}
+.person-chat{
+    height: 20%;
+    border-bottom: 1px solid silver;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+.person-chat-inner-div{
+    margin-top: 15px;
+}
+.person-chat-date-div{
+    margin-top: 35px;
+}
+.person-chat:hover{
+    background: rgba(204, 204, 204, 0.61);
+}
+.person-chat:active{
+    background: darkgray;
+}
+.sender{
+    text-align: right;
+    padding: 3px 10px;
+}
+.senderInnerDiv{
+    background: rgba(0, 153, 255, 0.938);
+    color: white;
+    display: inline-block;
+    padding: 7px 30px;
+    border-radius: 20px;
+}
+.chatMessagesMainDiv{
+    overflow: auto;
+    height: 440px;
+}
+.reciever{
+    text-align: left;
+    padding: 3px 10px;
+}
+.recieverInnerDiv{
+    background: rgb(245, 244, 242);
+    display: inline-block;
+    padding: 7px 30px;
+    border-radius: 20px;
+}

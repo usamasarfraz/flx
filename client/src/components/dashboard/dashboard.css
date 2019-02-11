@@ -1,0 +1,24 @@
+.dashboardMainDiv{
+    width: 65%;
+    margin: auto;
+    margin-top: 40px;
+    min-width: 417px;
+}
+.dashboard_paper{
+    padding: 10px 0px;
+    min-height: 500px;
+    margin-bottom: 20px;
+}
+.bottom_activeAd_typography{
+    padding: 10px 0px 10px 10px;
+}
+.tableToShowAds{
+    margin-bottom: 40px;
+}
+.adTitleShowMiddle{
+    display: flex;
+    align-items: center;
+}
+.fav_ads_Button{
+    float: right;
+}
